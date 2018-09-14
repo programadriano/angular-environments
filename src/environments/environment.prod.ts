@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  APIEndpoint: "https://localhost:5000"
+  API_URL: '//producao.com'
 };
